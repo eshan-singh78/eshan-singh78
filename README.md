@@ -8,7 +8,7 @@
 <a href="https://twitter.com/eshan___singh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="eshan___singh" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/eshan-singh-3062501b1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="eshan-singh-3062501b1" height="30" width="40" /></a>
 <a href="https://instagram.com/me.eshan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="me.eshan" height="30" width="40" /></a>
-<a href="[https://www.youtube.com/c/eshan singh](https://youtube.com/@DevEshan-wk1vz?si=Dp5eztWwZ-zEp2mf)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="Dev Eshan" height="30" width="40" /></a>
+<a href="https://youtube.com/@DevEshan-wk1vz?si=Dp5eztWwZ-zEp2mf" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="Dev Eshan" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/ml1b_2211090_esh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="ml1b_2211090_esh" height="30" width="40" /></a>
 </p>
 
